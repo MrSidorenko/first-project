@@ -1,1 +1,3 @@
-privet Andrey!
+public class Praktikum{
+
+}
